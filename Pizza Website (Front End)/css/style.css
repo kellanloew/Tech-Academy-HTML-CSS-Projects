@@ -1,0 +1,76 @@
+.radio{
+	text-align: left;
+	line-height: 16px;
+}
+
+.form-check{
+	text-align: left;
+}
+
+.container .text-center{
+	width: 50%;
+}
+
+.container .border{
+	width: 400px;
+	background-color: #f7bf94;
+	border-radius: 25px;
+}
+#sizes{
+	background-image: url("../img/size.jpg");
+}
+#meats{
+	background-image: url("../img/meats.jpg");
+}
+#crusts{
+	background-image: url("../img/crust.jpg");
+}
+#sauces{
+	background-image: url("../img/sauce.jpg");
+}
+#veggies{
+	background-image: url("../img/veggies.jpg");
+}
+#cheeses{
+	background-image: url("../img/cheese.jpg");
+}
+body{
+	background-color: #efefef;
+}
+h1{
+	color: #bc42f4;
+	background-color: #f7bf94;
+	text-shadow: 2px 2px 2px #7b23a3;
+	font-size: 40pt;
+}
+h2{
+	text-decoration: underline;
+	text-shadow: 1px 1x #33261c;
+	color: #000;
+}
+label{
+	color: #fff;
+	font-size: 16pt;
+}
+
+#order-btn{
+	background-color: #bc42f4;
+	color: #fff;
+}
+
+#order-box{
+	opacity: 0;
+	width: 900px;
+	background-color: #f7bf94;
+	border-radius: 7px;
+}
+
+.ingred{
+	line-height: 1em;
+	display: none;
+}
+
+.price{
+	line-height: 1em;
+	margin-bottom: 8px;
+}
